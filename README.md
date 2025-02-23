@@ -53,3 +53,30 @@ False Positives (62) are higher than False Negatives (27), suggesting the model 
 
 
 
+
+# Appendix
+
+![output_16_0](https://github.com/user-attachments/assets/e12071d0-17a2-4c45-9e67-e38eccdeffd8)
+
+
+![output_29_0](https://github.com/user-attachments/assets/1ad6144a-7643-4d6d-8ad4-a38a7f9c014f)
+
+
+![output_14_0](https://github.com/user-attachments/assets/a56521c0-a546-4d7f-8400-6e438149dc71)
+
+
+![output_13_2](https://github.com/user-attachments/assets/f5b66564-ecad-49ad-a58c-da34a2767ac2)
+
+
+![output_13_1](https://github.com/user-attachments/assets/ed72aaa5-8819-463b-b470-7b61e372fb0d)
+
+
+![output_13_0](https://github.com/user-attachments/assets/ee5c96e9-7c65-4b22-8388-d2f2d199038d)
+
+
+![output_5_1](https://github.com/user-attachments/assets/b67c555b-c380-47e3-8618-d4daf63a1343)
+
+
+[Final Project.md](https://github.com/user-attachments/files/18933652/Final.Project.md)
+
+
